@@ -456,7 +456,7 @@ body {
 }
 
 .stats-section {
-  background: url("/assets/images/stats_bg.png") no-repeat center center/cover;
+  background: url("https://res.cloudinary.com/dvap15wbj/image/upload/v1759917722/stats_bg_zkfbdm.png") no-repeat center center/cover;
   color: white;
   display: flex;
   justify-content: center;
