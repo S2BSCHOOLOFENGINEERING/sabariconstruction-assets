@@ -4455,7 +4455,6 @@ body {
 .sbcon-slider-one .sbcon-slider-item:before {
   position: absolute;
   content: "";
-  left: 254px;
   height: 100%;
   width: 1394px;
   z-index: 1;
